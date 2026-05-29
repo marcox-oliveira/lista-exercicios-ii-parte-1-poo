@@ -35,7 +35,7 @@ Duração: 20 minutos
 Reproduzindo todas as mídias:
 Reproduzindo vídeo: Introdução ao Python em 1080p
 Reproduzindo podcast: IA no Cotidiano com Prof. Alternei
-Reproduzindo texto narrado: Conceitos de POO
+Reproduzindo texto narrado: Conceitos de POO em Português
 ```
 
 ## Perguntas do professor
